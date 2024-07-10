@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Zayd Ansari</h1>
 <h3 align="center">A Final Year Engineering Student | Passionate About Machine Learning and Deep Learning | Tech Enthusiast</h3>
 <img align="right" alt = "coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansarizayd&label=Profile%20views&color=0e75b6&style=flat" alt="ansarizayd" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnsariZayd?tab=repositories](https://github.com/AnsariZayd?tab=repositories)
+
+- 💬 **About Me** <br>I am Ansari Zayd Ahmed, an enthusiastic engineering student currently pursuing my Bachelor's degree in Electronics and Telecommunication from Vishwakarma Institute of Technology, Pune. With a strong foundation in machine learning, deep learning, and software development, I am passionate about leveraging technology to solve real-world problems. <br>I have honed my programming skills in Python, C++, and Java, and I am proficient in various libraries and frameworks such as Keras, CNN, and React. My experience includes working with databases like MySQL and developing responsive applications using HTML, CSS, and JavaScript. Additionally, I possess a solid understanding of data structures, algorithms, and object-oriented programming. <br>I was a finalist in the Smart India Hackathon 2023, reflecting my problem-solving capabilities and innovative mindset. My certifications in neural networks, deep learning, and problem-solving further bolster my expertise in the AI/ML domain. <br>Driven by a passion for AI and ML, I am committed to continuously enhancing my skills and knowledge. Let's connect and explore the endless possibilities of technology together!
 
 - 📫 How to reach me **ahmedansarizayd@gmail.com**
 
@@ -12,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ansari-zayd-ahmed-a39a59230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ansarizaydahmed" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ansarizaydahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ansarizaydahmed" height="30" width="40" /></a>
 <a href="https://kaggle.com/ansarizaydahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ansarizaydahmed" height="30" width="40" /></a>
 <a href="https://instagram.com/ansari_zayd_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ansari_zayd_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ahmedansarizayd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmedansarizayd" height="30" width="40" /></a>
