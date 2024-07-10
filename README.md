@@ -1,3 +1,4 @@
+![logo](https://github.com/AnsariZayd/AnsariZayd/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Zayd Ansari</h1>
 <h3 align="center">A Final Year Engineering Student | Passionate About Machine Learning and Deep Learning | Tech Enthusiast</h3>
 <img align="right" alt = "coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
