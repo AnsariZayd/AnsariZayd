@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/ansarizaydahmed](https://www.linkedin.com/in/ansari-zayd-ahmed-a39a59230/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ansarizaydahmed" height="30" width="40" /></a>
+<a href="hhtps://www.linkedin.com/in/ansari-zayd-ahmed-a39a59230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ansarizaydahmed" height="30" width="40" /></a>
 <a href="https://kaggle.com/ansarizaydahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ansarizaydahmed" height="30" width="40" /></a>
 <a href="https://instagram.com/ansari_zayd_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ansari_zayd_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ahmedansarizayd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmedansarizayd" height="30" width="40" /></a>
