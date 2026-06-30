@@ -15,8 +15,6 @@ I'm always eager to learn, collaborate, and build intelligent, scalable solution
 
 - 📫 How to reach me **ahmedansarizayd@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fn2O2tEpX34kk7spfFBK2cGHA9h8mOrU/view?usp=sharing](https://drive.google.com/file/d/1fn2O2tEpX34kk7spfFBK2cGHA9h8mOrU/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ansari-zayd-ahmed-a39a59230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ansarizaydahmed" height="30" width="40" /></a>
