@@ -6,7 +6,12 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnsariZayd?tab=repositories](https://github.com/AnsariZayd?tab=repositories)
 
-- 💬 **About Me** <br>I am Ansari Zayd Ahmed, an enthusiastic engineering student currently pursuing my Bachelor's degree in Electronics and Telecommunication from Vishwakarma Institute of Technology, Pune. With a strong foundation in machine learning, deep learning, and software development, I am passionate about leveraging technology to solve real-world problems. <br>I have honed my programming skills in Python, C++, and Java, and I am proficient in various libraries and frameworks such as Keras, CNN, and React. My experience includes working with databases like MySQL and developing responsive applications using HTML, CSS, and JavaScript. Additionally, I possess a solid understanding of data structures, algorithms, and object-oriented programming. <br>I was a finalist in the Smart India Hackathon 2023, reflecting my problem-solving capabilities and innovative mindset. My certifications in neural networks, deep learning, and problem-solving further bolster my expertise in the AI/ML domain. <br>Driven by a passion for AI and ML, I am committed to continuously enhancing my skills and knowledge. Let's connect and explore the endless possibilities of technology together!
+- 💬 **About Me** <br>I am a Software Engineer Trainee with experience in Data Engineering, Generative AI, and AI-powered application development. Currently at iLink Digital, I work on building scalable AI solutions using FastAPI, Microsoft Fabric, Azure SQL, Databricks, and Azure AI Services, contributing to data pipelines, AI backend services, and enterprise-grade applications.
+
+I hold certifications including Databricks Certified Generative AI Engineer Associate, Microsoft Fabric Data Analytics Engineer Associate, Microsoft Power BI Data Analyst Associate, and GitHub Copilot Certified Professional. I'm also a Smart India Hackathon 2023 Finalist and have published research in AI, blockchain, and renewable energy systems.
+Passionate about solving real-world problems with AI and data-driven technologies.
+
+I'm always eager to learn, collaborate, and build intelligent, scalable solutions. I'm open to connecting with professionals and exploring opportunities in Software Engineering, Data Engineering, AI, and Generative AI.
 
 - 📫 How to reach me **ahmedansarizayd@gmail.com**
 
