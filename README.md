@@ -72,11 +72,15 @@ More on my [repositories tab](https://github.com/AnsariZayd?tab=repositories).
 
 ---
 
-## 📈 GitHub stats
+## 📈 GitHub activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AnsariZayd&show_icons=true&hide_border=true&theme=default&title_color=4f46e5&icon_color=0ea5e9" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnsariZayd&layout=compact&hide_border=true&title_color=4f46e5" alt="Top languages" />
+  <a href="https://github.com/AnsariZayd?tab=followers"><img src="https://img.shields.io/github/followers/AnsariZayd?style=for-the-badge&logo=github&color=4f46e5&labelColor=1e293b" alt="Followers" /></a>
+  <a href="https://github.com/AnsariZayd?tab=repositories"><img src="https://img.shields.io/badge/Public%20repositories-40-0ea5e9?style=for-the-badge&logo=github&labelColor=1e293b" alt="Repositories" /></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnsariZayd/AnsariZayd/main/github-metrics.svg" alt="GitHub metrics" width="100%" />
 </p>
 
 <p align="center"><i>Let's build something intelligent together. 🚀</i></p>
