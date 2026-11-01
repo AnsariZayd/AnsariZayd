@@ -82,21 +82,21 @@ More on my [repositories tab](https://github.com/AnsariZayd?tab=repositories).
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnsariZayd/AnsariZayd/main/profile-summary-card-output/github_dark/3-stats.svg">
-    <img src="https://raw.githubusercontent.com/AnsariZayd/AnsariZayd/main/profile-summary-card-output/default/3-stats.svg" alt="3-stats" width="49%">
+    <img src="https://raw.githubusercontent.com/AnsariZayd/AnsariZayd/main/profile-summary-card-output/default/3-stats.svg" alt="3-stats" width="340">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnsariZayd/AnsariZayd/main/profile-summary-card-output/github_dark/2-most-commit-language.svg">
-    <img src="https://raw.githubusercontent.com/AnsariZayd/AnsariZayd/main/profile-summary-card-output/default/2-most-commit-language.svg" alt="2-most-commit-language" width="49%">
+    <img src="https://raw.githubusercontent.com/AnsariZayd/AnsariZayd/main/profile-summary-card-output/default/2-most-commit-language.svg" alt="2-most-commit-language" width="340">
   </picture>
 </p>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnsariZayd/AnsariZayd/main/profile-summary-card-output/github_dark/1-repos-per-language.svg">
-    <img src="https://raw.githubusercontent.com/AnsariZayd/AnsariZayd/main/profile-summary-card-output/default/1-repos-per-language.svg" alt="1-repos-per-language" width="49%">
+    <img src="https://raw.githubusercontent.com/AnsariZayd/AnsariZayd/main/profile-summary-card-output/default/1-repos-per-language.svg" alt="1-repos-per-language" width="340">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnsariZayd/AnsariZayd/main/profile-summary-card-output/github_dark/4-productive-time.svg">
-    <img src="https://raw.githubusercontent.com/AnsariZayd/AnsariZayd/main/profile-summary-card-output/default/4-productive-time.svg" alt="4-productive-time" width="49%">
+    <img src="https://raw.githubusercontent.com/AnsariZayd/AnsariZayd/main/profile-summary-card-output/default/4-productive-time.svg" alt="4-productive-time" width="340">
   </picture>
 </p>
 
